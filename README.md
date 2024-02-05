@@ -8,7 +8,9 @@ Project Title
 Lighthouse DS 2024 challenge - building an EDA and price forecasting for rent units in NYC.
 
 Description
-Provide a more detailed introduction to the project including the problem it solves, its objectives, and any unique methodology it employs. Mention the main technologies used.
+This project employs machine learning techniques to address predicting rent prices for temporary rent in NYC, utilizing a dataset comprising NYC historical real estate renting data. The workflow includes data preprocessing, exploratory analysis, model training, and evaluation, aiming to identify the most effective predictors of price. The findings offer valuable insights into real estate valuation on the matter of temporary rent, showcasing the applicability and effectiveness of machine learning in practical scenarios.
+
+
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
