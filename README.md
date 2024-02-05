@@ -22,6 +22,7 @@ To install the required Python packages, follow these steps:
 bash
 Copy code
 git clone https://github.com/gabrielmenz/LH_CD_GABRIEL_ALVES_DE_MENEZES.git
+
 cd  XXX
 pip install -r requirements.txt
 Replace yourusername and XXX with your gitHub username and the name of your project repository respectively.
